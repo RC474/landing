@@ -1,0 +1,13 @@
+h1 {
+    color: rgb(0, 255, 0);
+    font-family: 'Courier New', Courier, monospace;
+   border: 5px dashed green;
+}
+
+body {
+    background: url(https://lumberliquidators.scene7.com/is/image/LumberLiquidators/250x250/Tranquility%20XD-4mm%20Sun%20Valley%20Pine%20Luxury%20Vinyl%20Plank%20Flooring~10045388_sw.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+

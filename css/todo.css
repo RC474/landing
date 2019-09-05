@@ -1,0 +1,32 @@
+#special {
+    background: red;
+}
+
+#list {
+    font-family: 'Times New Roman', Times, serif;
+    background: orange;
+}
+
+#paragraph{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    border: 5px red dashed;
+}
+
+.first {
+    text-decoration: line-through;
+}
+
+.second {
+    text-decoration: line-through;
+}
+
+.third {
+    text-decoration: black underline;
+    text-decoration-style: double;
+}
+
+.fourth {
+    text-decoration: underline;
+    text-decoration-style: wavy;
+}

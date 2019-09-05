@@ -1,0 +1,26 @@
+p {
+    font-family: 'Times-new-ronam';
+}
+
+h1 {
+    font-family: Georgia;
+    font-size: 100px;
+}
+
+span {
+    font-size: 2em;
+}
+
+p {
+    font-weight: bold;
+}
+
+p {
+    line-height: 1.5;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: line-through;
+}
+
